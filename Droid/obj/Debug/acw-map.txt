@@ -1,0 +1,4 @@
+ProyectoCRM.Droid.MainActivity, ProyectoCRM.Droid;md5cd14b3e2c720d7187d165aa0a2a73c57.MainActivity
+ProyectoCRM.Droid.MainActivity, ProyectoCRM.Droid, Version=1.0.0.0, Culture=neutral, PublicKeyToken=null;md5cd14b3e2c720d7187d165aa0a2a73c57.MainActivity
+ProyectoCRM.Droid.MainActivity;md5cd14b3e2c720d7187d165aa0a2a73c57.MainActivity
+proyectocrm.droid.MainActivity;md5cd14b3e2c720d7187d165aa0a2a73c57.MainActivity

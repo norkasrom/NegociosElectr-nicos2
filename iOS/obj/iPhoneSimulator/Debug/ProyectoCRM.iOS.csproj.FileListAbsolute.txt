@@ -1,0 +1,12 @@
+/Users/ccdm02/Projects/ProyectoCRM/iOS/bin/iPhoneSimulator/Debug/ProyectoCRM.iOS.exe
+/Users/ccdm02/Projects/ProyectoCRM/iOS/bin/iPhoneSimulator/Debug/ProyectoCRM.iOS.pdb
+/Users/ccdm02/Projects/ProyectoCRM/iOS/bin/iPhoneSimulator/Debug/ProyectoCRM.dll
+/Users/ccdm02/Projects/ProyectoCRM/iOS/bin/iPhoneSimulator/Debug/ProyectoCRM.pdb
+/Users/ccdm02/Projects/ProyectoCRM/iOS/obj/iPhoneSimulator/Debug/device-builds/iphone10.4-11.2/ibtool/_BundleResourceWithLogicalName.items
+/Users/ccdm02/Projects/ProyectoCRM/iOS/obj/iPhoneSimulator/Debug/device-builds/iphone10.4-11.2/actool/_PartialAppManifest.items
+/Users/ccdm02/Projects/ProyectoCRM/iOS/obj/iPhoneSimulator/Debug/device-builds/iphone10.4-11.2/actool/_BundleResourceWithLogicalName.items
+/Users/ccdm02/Projects/ProyectoCRM/iOS/obj/iPhoneSimulator/Debug/device-builds/iphone10.4-11.2/optimized/
+/Users/ccdm02/Projects/ProyectoCRM/iOS/obj/iPhoneSimulator/Debug/ProyectoCRM.iOS.csprojResolveAssemblyReference.cache
+/Users/ccdm02/Projects/ProyectoCRM/iOS/obj/iPhoneSimulator/Debug/ProyectoCRM.iOS.csproj.CoreCompileInputs.cache
+/Users/ccdm02/Projects/ProyectoCRM/iOS/obj/iPhoneSimulator/Debug/ProyectoCRM.iOS.exe
+/Users/ccdm02/Projects/ProyectoCRM/iOS/obj/iPhoneSimulator/Debug/ProyectoCRM.iOS.pdb
