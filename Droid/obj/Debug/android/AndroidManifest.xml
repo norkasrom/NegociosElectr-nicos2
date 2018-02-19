@@ -4,7 +4,11 @@
   <uses-sdk android:minSdkVersion="15" />
   <uses-permission android:name="android.permission.INTERNET" />
   <uses-permission android:name="android.permission.READ_EXTERNAL_STORAGE" />
-  <application android:label="Proyecto CRM" android:name="android.app.Application" android:allowBackup="true" android:icon="@mipmap/icon" android:debuggable="true">
+  <application android:label="Proyecto CRM" android:name="android.app.Application" android:allowBackup="true" android:debuggable="true">
+    <activity android:label="BorrarActivity" android:name="md5cd14b3e2c720d7187d165aa0a2a73c57.BorrarActivity" />
+    <activity android:label="CrearActivity" android:name="md5cd14b3e2c720d7187d165aa0a2a73c57.CrearActivity" />
+    <activity android:label="DetallesActivity" android:name="md5cd14b3e2c720d7187d165aa0a2a73c57.DetallesActivity" />
+    <activity android:label="EditarActivity" android:name="md5cd14b3e2c720d7187d165aa0a2a73c57.EditarActivity" />
     <activity android:icon="@mipmap/icon" android:label="Proyecto CRM" android:name="md5cd14b3e2c720d7187d165aa0a2a73c57.MainActivity">
       <intent-filter>
         <action android:name="android.intent.action.MAIN" />
