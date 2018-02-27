@@ -1,0 +1,28 @@
+CRM.Droid.BorrarActivity, CRM.Android;md5735b75db9a8b62783433c5a0066b44a4.BorrarActivity
+CRM.Droid.BorrarActivity, CRM.Android, Version=1.0.0.0, Culture=neutral, PublicKeyToken=null;md5735b75db9a8b62783433c5a0066b44a4.BorrarActivity
+CRM.Droid.BorrarActivity;md5735b75db9a8b62783433c5a0066b44a4.BorrarActivity
+crm.droid.BorrarActivity;md5735b75db9a8b62783433c5a0066b44a4.BorrarActivity
+CRM.Droid.ClienteLVAdapteter, CRM.Android;md5735b75db9a8b62783433c5a0066b44a4.ClienteLVAdapteter
+CRM.Droid.ClienteLVAdapteter, CRM.Android, Version=1.0.0.0, Culture=neutral, PublicKeyToken=null;md5735b75db9a8b62783433c5a0066b44a4.ClienteLVAdapteter
+CRM.Droid.ClienteLVAdapteter;md5735b75db9a8b62783433c5a0066b44a4.ClienteLVAdapteter
+crm.droid.ClienteLVAdapteter;md5735b75db9a8b62783433c5a0066b44a4.ClienteLVAdapteter
+CRM.Droid.ClientesApp, CRM.Android;md5735b75db9a8b62783433c5a0066b44a4.ClientesApp
+CRM.Droid.ClientesApp, CRM.Android, Version=1.0.0.0, Culture=neutral, PublicKeyToken=null;md5735b75db9a8b62783433c5a0066b44a4.ClientesApp
+CRM.Droid.ClientesApp;md5735b75db9a8b62783433c5a0066b44a4.ClientesApp
+crm.droid.ClientesApp;md5735b75db9a8b62783433c5a0066b44a4.ClientesApp
+CRM.Droid.CrearActivity, CRM.Android;md5735b75db9a8b62783433c5a0066b44a4.CrearActivity
+CRM.Droid.CrearActivity, CRM.Android, Version=1.0.0.0, Culture=neutral, PublicKeyToken=null;md5735b75db9a8b62783433c5a0066b44a4.CrearActivity
+CRM.Droid.CrearActivity;md5735b75db9a8b62783433c5a0066b44a4.CrearActivity
+crm.droid.CrearActivity;md5735b75db9a8b62783433c5a0066b44a4.CrearActivity
+CRM.Droid.DetallesActivity, CRM.Android;md5735b75db9a8b62783433c5a0066b44a4.DetallesActivity
+CRM.Droid.DetallesActivity, CRM.Android, Version=1.0.0.0, Culture=neutral, PublicKeyToken=null;md5735b75db9a8b62783433c5a0066b44a4.DetallesActivity
+CRM.Droid.DetallesActivity;md5735b75db9a8b62783433c5a0066b44a4.DetallesActivity
+crm.droid.DetallesActivity;md5735b75db9a8b62783433c5a0066b44a4.DetallesActivity
+CRM.Droid.EditarActivity, CRM.Android;md5735b75db9a8b62783433c5a0066b44a4.EditarActivity
+CRM.Droid.EditarActivity, CRM.Android, Version=1.0.0.0, Culture=neutral, PublicKeyToken=null;md5735b75db9a8b62783433c5a0066b44a4.EditarActivity
+CRM.Droid.EditarActivity;md5735b75db9a8b62783433c5a0066b44a4.EditarActivity
+crm.droid.EditarActivity;md5735b75db9a8b62783433c5a0066b44a4.EditarActivity
+CRM.Droid.MainActivity, CRM.Android;md5735b75db9a8b62783433c5a0066b44a4.MainActivity
+CRM.Droid.MainActivity, CRM.Android, Version=1.0.0.0, Culture=neutral, PublicKeyToken=null;md5735b75db9a8b62783433c5a0066b44a4.MainActivity
+CRM.Droid.MainActivity;md5735b75db9a8b62783433c5a0066b44a4.MainActivity
+crm.droid.MainActivity;md5735b75db9a8b62783433c5a0066b44a4.MainActivity

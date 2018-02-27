@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="utf-8"?>
+<Project xmlns="http://schemas.microsoft.com/developer/msbuild/2003">
+  <PropertyGroup>
+    <MSBuildAllProjects>$(MSBuildAllProjects);$(MSBuildThisFileFullPath)</MSBuildAllProjects>
+    <HasSharedItems>true</HasSharedItems>
+    <SharedGUID>{949DC855-FDF5-46A9-9730-3C3A5A1A44BD}</SharedGUID>
+  </PropertyGroup>
+  <PropertyGroup Label="Configuration">
+    <Import_RootNamespace>CRM</Import_RootNamespace>
+  </PropertyGroup>
+  <ItemGroup>
+    <Compile Include="$(MSBuildThisFileDirectory)ClienteEntity.cs" />
+    <Compile Include="$(MSBuildThisFileDirectory)IClienteRepository.cs" />
+    <Compile Include="$(MSBuildThisFileDirectory)MemoryClienteRepository.cs" />
+    <Compile Include="$(MSBuildThisFileDirectory)SQLiteClienteRepository.cs" />
+  </ItemGroup>
+</Project>
