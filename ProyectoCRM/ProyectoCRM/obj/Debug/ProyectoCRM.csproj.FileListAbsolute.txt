@@ -1,0 +1,12 @@
+/Users/joseantonioastorgaaviles/Documents/NE2 - CRM/CRM/ProyectoCRM/ProyectoCRM/bin/Debug/ProyectoCRM.dll
+/Users/joseantonioastorgaaviles/Documents/NE2 - CRM/CRM/ProyectoCRM/ProyectoCRM/bin/Debug/ProyectoCRM.pdb
+/Users/joseantonioastorgaaviles/Documents/NE2 - CRM/CRM/ProyectoCRM/ProyectoCRM/bin/Debug/SQLite-net.dll
+/Users/joseantonioastorgaaviles/Documents/NE2 - CRM/CRM/ProyectoCRM/ProyectoCRM/bin/Debug/SQLitePCLRaw.batteries_green.dll
+/Users/joseantonioastorgaaviles/Documents/NE2 - CRM/CRM/ProyectoCRM/ProyectoCRM/bin/Debug/SQLitePCLRaw.batteries_v2.dll
+/Users/joseantonioastorgaaviles/Documents/NE2 - CRM/CRM/ProyectoCRM/ProyectoCRM/bin/Debug/SQLitePCLRaw.core.dll
+/Users/joseantonioastorgaaviles/Documents/NE2 - CRM/CRM/ProyectoCRM/ProyectoCRM/bin/Debug/SQLite-net.pdb
+/Users/joseantonioastorgaaviles/Documents/NE2 - CRM/CRM/ProyectoCRM/ProyectoCRM/bin/Debug/SQLite-net.xml
+/Users/joseantonioastorgaaviles/Documents/NE2 - CRM/CRM/ProyectoCRM/ProyectoCRM/obj/Debug/ProyectoCRM.csprojResolveAssemblyReference.cache
+/Users/joseantonioastorgaaviles/Documents/NE2 - CRM/CRM/ProyectoCRM/ProyectoCRM/obj/Debug/ProyectoCRM.csproj.CoreCompileInputs.cache
+/Users/joseantonioastorgaaviles/Documents/NE2 - CRM/CRM/ProyectoCRM/ProyectoCRM/obj/Debug/ProyectoCRM.dll
+/Users/joseantonioastorgaaviles/Documents/NE2 - CRM/CRM/ProyectoCRM/ProyectoCRM/obj/Debug/ProyectoCRM.pdb

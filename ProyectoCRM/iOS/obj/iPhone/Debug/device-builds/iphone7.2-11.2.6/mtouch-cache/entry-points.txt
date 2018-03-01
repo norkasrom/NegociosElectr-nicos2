@@ -1,0 +1,11 @@
+Function=xamarin_timezone_get_data
+	/Users/joseantonioastorgaaviles/Documents/NE2 - CRM/CRM/ProyectoCRM/iOS/obj/iPhone/Debug/device-builds/iphone7.2-11.2.6/mtouch-cache/Link/mscorlib.dll
+Function=xamarin_GetFolderPath
+	/Users/joseantonioastorgaaviles/Documents/NE2 - CRM/CRM/ProyectoCRM/iOS/obj/iPhone/Debug/device-builds/iphone7.2-11.2.6/mtouch-cache/Link/mscorlib.dll
+Function=xamarin_log
+	/Users/joseantonioastorgaaviles/Documents/NE2 - CRM/CRM/ProyectoCRM/iOS/obj/iPhone/Debug/device-builds/iphone7.2-11.2.6/mtouch-cache/Link/mscorlib.dll
+Function=UIApplicationMain
+	/Users/joseantonioastorgaaviles/Documents/NE2 - CRM/CRM/ProyectoCRM/iOS/obj/iPhone/Debug/device-builds/iphone7.2-11.2.6/mtouch-cache/Link/Xamarin.iOS.dll
+Function=xamarin_get_block_descriptor
+	/Users/joseantonioastorgaaviles/Documents/NE2 - CRM/CRM/ProyectoCRM/iOS/obj/iPhone/Debug/device-builds/iphone7.2-11.2.6/mtouch-cache/Link/Xamarin.iOS.dll
+Function=mono_pmip
