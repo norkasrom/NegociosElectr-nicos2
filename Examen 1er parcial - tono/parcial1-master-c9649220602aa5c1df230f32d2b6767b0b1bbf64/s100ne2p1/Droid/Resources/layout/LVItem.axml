@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    android:orientation="vertical"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent">
+    <TextView
+        android:id="@+id/txtNombre"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:text="SOME NAME" />
+    <TextView
+        android:id="@+id/txtNumCtrl"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:text="SOME CONTROL NUMBER" />
+    <TextView
+        android:id="@+id/txtCalif"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:text="SOME GRADE" />
+</LinearLayout>
