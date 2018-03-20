@@ -1,0 +1,17 @@
+﻿<Properties StartupConfiguration="{CB6662BD-9F22-4A77-9C45-98169CA770DB}|Default">
+  <MonoDevelop.Ide.Workbench>
+    <Files>
+      <File FileName="ProyectoCRM/AutoEntity.cs" Line="4" Column="25" />
+    </Files>
+  </MonoDevelop.Ide.Workbench>
+  <MonoDevelop.Ide.Workspace ActiveConfiguration="Debug" />
+  <MonoDevelop.Ide.ItemProperties.ProyectoCRM.Droid AndroidDesignerPreferredDevice="Nexus One" PreferredExecutionTarget="Android.Android_Accelerated_Nougat" />
+  <MonoDevelop.Ide.DebuggingService.Breakpoints>
+    <BreakpointStore />
+  </MonoDevelop.Ide.DebuggingService.Breakpoints>
+  <MonoDevelop.Ide.DebuggingService.PinnedWatches />
+  <MultiItemStartupConfigurations />
+  <MonoDevelop.Ide.ItemProperties.ProyectoCRM.iOS PreferredExecutionTarget="MonoDevelop.IPhone.IPhoneSimulatorTarget.FD278AB5-09FB-4A7E-803A-EB942A42A248">
+    <MonoDevelop.MacDev.AppleDevelopmentTeam />
+  </MonoDevelop.Ide.ItemProperties.ProyectoCRM.iOS>
+</Properties>
